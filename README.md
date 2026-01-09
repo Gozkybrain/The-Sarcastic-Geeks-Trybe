@@ -14,7 +14,7 @@ Members of the Trybe connect online authenticating with their X account (for dp 
 
 ## Expected Mini Apps and Games
 
-- [Obstacle Course](./obstacle-course)
+- [Obstacle Course](./obstacle-course.md)
 - [Snake Game](./snake-game)
 - [Hangman Game](./hangman-game)
 - [Bez AI Course Builder](./bez-ai-course-builder)
