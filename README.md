@@ -15,10 +15,10 @@ Members of the Trybe connect online authenticating with their X account (for dp 
 ## Expected Mini Apps and Games
 
 - [Obstacle Course](./obstacle-course.md)
-- [Snake Game](./snake-game)
-- [Hangman Game](./hangman-game)
-- [Bez AI Course Builder](./bez-ai-course-builder)
-- [FindMe App (Coming Soon)](./findme-app)
+- [Snake Game](./snake-game.md)
+- [Hangman Game](./hangman-game.md)
+- [Bez AI Course Builder](./bez-ai-course-builder.md)
+- [FindMe App (Coming Soon)](./findme-app.md)
 
 
 .. and more exciting browser games to foster community activity, and even a featured store to spend community in-app points before they actually become in-app token on web3.
