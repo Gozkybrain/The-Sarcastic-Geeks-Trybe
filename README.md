@@ -123,7 +123,7 @@ The project is part of the Community's [#90DaysLab]() Challenge, which aims to c
 - Trybe members will earn points to help participate in activities.
 - When the community gets integrated into the web3 platform, web3 activities will also be incorporated.
 
-## COMING SOON - FindMe API and APP
+## COMING SOON - Hello Wolrd
 An experimental **AI-assisted job discovery platform** focused on startup jobs.  
 The platform aggregates **startup jobs + funding data** from multiple APIs, enriches them with metadata (founders, socials, funding info), stores them in a database, and allows job seekers to search, filter, and apply — either directly via job links or by networking with startup founders.
 
