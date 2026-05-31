@@ -27,6 +27,13 @@ Our goal is simple — make sure every techie in the trybe lands. We're building
 
 ---
 
+## Much Later
+
+- **Ads assistance** — run targeted ads for your profile or projects so the right companies see you easier
+- **OSINT search** — find direct contacts (emails, X handles, LinkedIn profiles) for founders, hiring managers, and decision-makers at target companies
+
+---
+
 ## TODOs
 
 ### Home Page
