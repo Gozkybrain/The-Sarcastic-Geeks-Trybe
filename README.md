@@ -8,7 +8,6 @@ Members of the Trybe connect online authenticating with their X account (for dp 
 
 ## Development Requirements
 - [React JS](https://reactjs.org/): **Web App Interface**
-- [Animate.css](https://animate.style/) and [GSAP (GreenSock)](https://greensock.com/gsap/): **Animation Flow**
 - [Firebase Console](https://console.firebase.google.com/): **Authentication and Database**
 
 
