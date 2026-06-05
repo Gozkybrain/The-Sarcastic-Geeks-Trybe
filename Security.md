@@ -39,11 +39,7 @@ Our goal is simple — make sure every techie in the trybe lands. We're building
 ### Home Page
 Build a new homepage for the trybe app with smooth scroll animations.
 
-### Hello World Page Logic
-- **Logged out** — show "Join Waitlist" button that links to login
-- **Logged in, not on waitlist** — show "Join Waitlist" that actually adds them
-- **Logged in, on waitlist, not configured** — link to profile with "Configure Hello World"
-- **Logged in, on waitlist, configured** — show "Jobs/Hello-World" and let them in
+### Update Roadmap Page with full Logic, Clean generated and exported roadmap.
 
 ### UI Refresh
 Major to minor update across the entire app interface. Make it feel modern.
@@ -52,7 +48,7 @@ Major to minor update across the entire app interface. Make it feel modern.
 `jobs/hello-world` gets three tabs:
 - **All Projects** — browse every project
 - **All Jobs** — browse every role across all projects
-- **Following** — only the projects and jobs the user is tracking
+- **Sorting and config check** — checks if config is ready
 
 ### Billing Integration
 Connect actual billing on the roadmap generation page. Roadmap generation costs Cowries. Admins and moderators are exempt.
