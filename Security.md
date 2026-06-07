@@ -34,29 +34,6 @@ Our goal is simple — make sure every techie in the trybe lands. We're building
 
 ---
 
-## TODOs
-
-### Home Page
-Build a new homepage for the trybe app with smooth scroll animations.
-
-### Update Roadmap Page with full Logic, Clean generated and exported roadmap.
-
-### UI Refresh
-Major to minor update across the entire app interface. Make it feel modern.
-
-### Jobs Flow
-`jobs/hello-world` gets three tabs:
-- **All Projects** — browse every project
-- **All Jobs** — browse every role across all projects
-- **Sorting and config check** — checks if config is ready
-
-### Billing Integration
-Connect actual billing on the roadmap generation page. Roadmap generation costs Cowries. Admins and moderators are exempt.
-
-### Content Redesign
-Restructure and redesign the generated content, especially the Notion page output. Cleaner layout, better hierarchy, more scannable.
-
----
 
 The mission stays the same: level the playing field so builders find real opportunities before the flood. No ghost jobs. No being one of a thousand. Just you, your skills, and the right timing.
 
